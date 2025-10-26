@@ -27,22 +27,22 @@ A full-stack URL shortener web application that allows users to **create, manage
 
 **Signup Page**
 
-![Signup Page]<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/7a501b09-d59d-4e26-9bc8-cbb5b9b380b0" />
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/7a501b09-d59d-4e26-9bc8-cbb5b9b380b0" />
 
 
 **About Us Page**
 
-![About Us Page]<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/f2eec89e-0068-41aa-a10f-aede74c00e9d" />
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/f2eec89e-0068-41aa-a10f-aede74c00e9d" />
 
 
 **Login Page**
 
-![Login Page]<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/5fee7c8b-1de7-4a9d-a4d7-17dd510ca202" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/5fee7c8b-1de7-4a9d-a4d7-17dd510ca202" />
 
 
 **URL Shortener Dashboard**
 
-![URL Shortener Dashboard]<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/5387aec4-c96a-4bfc-82ee-e409e7bca1ea" />
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/5387aec4-c96a-4bfc-82ee-e409e7bca1ea" />
 
 
 ---
